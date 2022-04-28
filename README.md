@@ -1,11 +1,19 @@
 # Book-Show
 
 This is a simple react book show ticket app done step-by-step. This simple app was a part of react course.
+This is a 2 screen React JS application using this API: 
+https://api.tvmaze.com/search/shows?q=all
+
+This app will display the show names and a few details about it. User can also book a show ticket by using this application.
+
+-> 50% development work of application is still remaining...
+Completed soon..
+
 
 ## Instructions
 First clone this repository.
 ```bash
-$ git clone https://github.com/Gopi1422/React-Project.git
+$ git clone https://github.com/Gopi1422/book-show-ticket.git
 ```
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
 ```bash
