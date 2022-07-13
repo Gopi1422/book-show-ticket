@@ -11,7 +11,7 @@ export class Shows extends Component {
     }
 
     async componentDidMount(){
-        let url = "https://api.tvmaze.com/search/shows?q=all";
+        let url = "https://api.tvmaze.com/search/shows?q=all" ;
         let data = await fetch(url)
         let parsedData = await data.json();
         console.log(parsedData);
