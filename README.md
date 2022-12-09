@@ -25,11 +25,14 @@ $ npm start # or yarn start
 ```
 
 ### Outputs 
-![Output-1](https://github.com/Gopi1422/book-show-ticket/blob/f5ae6ed1a079da9ae2868afa6718633b0d552fb8/output/1.png?raw=true)
+<p>
+    <img src="output/1.png" width="220" height="240" />
+</p>
+![Output-1](https://github.com/Gopi1422/book-show-ticket/blob/f5ae6ed1a079da9ae2868afa6718633b0d552fb8/output/1.png)
 
-![Output-2](https://github.com/Gopi1422/book-show-ticket/blob/f5ae6ed1a079da9ae2868afa6718633b0d552fb8/output/2.png?raw=true)
+![Output-2](https://github.com/Gopi1422/book-show-ticket/blob/f5ae6ed1a079da9ae2868afa6718633b0d552fb8/output/2.png)
 
 After clicking on 'Show Details' button:
 
-![Output-3](https://github.com/Gopi1422/book-show-ticket/blob/f5ae6ed1a079da9ae2868afa6718633b0d552fb8/output/3.png?raw=true)
+![Output-3](https://github.com/Gopi1422/book-show-ticket/blob/f5ae6ed1a079da9ae2868afa6718633b0d552fb8/output/3.png)
 
